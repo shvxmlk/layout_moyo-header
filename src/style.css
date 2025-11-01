@@ -32,7 +32,6 @@ body {
 }
 
 .nav-list {
-  height: 56px;
   display: flex;
   align-items: center;
   list-style: none;
@@ -44,7 +43,7 @@ body {
   display: flex;
   align-items: center;
   height: 56px;
-  line-height: normal;
+  line-height: 12px;
   text-decoration: none;
   color: #000;
   text-transform: uppercase;
